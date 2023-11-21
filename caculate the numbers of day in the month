@@ -1,0 +1,37 @@
+#include<iostream>
+#include<conio.h>
+#include<stdlib.h>
+using namespace std;
+int main() //tinh so ngay trong thang
+{
+    system("color 0a");
+		int x,z;
+		do
+		{
+			cout<<"Nhap thang de xem so ngay cua thang do: ";
+			cin>>x;
+		}while(x<1 || x>12);
+		if(x==1||x==3||x==5||x==7||x==8||x==10||x==12)
+		{cout<<"Thang nay co 31 ngay";
+		getch();
+		return 0;}
+		if(x==4||x==6||x==9||x==11)
+		{cout<<"Thang nay co 30 ngay";
+		getch();
+		return 0;}
+		if(x==2)
+		{cout<<"Vui long nhap them nam: ";
+		cin>>z;}
+		if(z<1)
+		{cout<<"So nam ban nhap khong hop le !!";
+		getch();
+		return 0;}
+		if(z %4==0 && z %100!=0)
+		{cout<<"Thang nay co 29 ngay";
+		getch();
+		return 0;}
+		else
+		{cout<<"Thang nay co 28 ngay";
+		getch();
+		return 0;}
+		return 0;}
