@@ -37,8 +37,10 @@
 				  font-weight: 900;
 				  letter-spacing: -.05em;
 				  text-align: center;
-				  background: linear-gradient(270deg, #4CAF50, #8D6E63, #757575);
-				  background: -webkit-linear-gradient(right, #4CAF50, #8D6E63, #757575);
+				  background: linear-gradient(270deg, #4CAF50, #8D6E63, #757575, #4CAF50);
+				  background-size: 300% 300%;
+				  -webkit-animation: gradientShift 12s ease infinite;
+				  animation: gradientShift 12s ease infinite;
 				  background-size: 200%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
