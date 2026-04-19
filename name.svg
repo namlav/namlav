@@ -1,29 +1,21 @@
 <svg viewBox="0 0 800 120" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <!-- 🌊 Bản đồ ripple hình tròn -->
+    <!-- 🌊 Ripple map -->
     <radialGradient id="rippleMap" cx="50%" cy="50%" r="0%">
       <stop offset="0%" stop-color="white"/>
       <stop offset="100%" stop-color="black"/>
-      <!-- animate bán kính để tạo sóng lan -->
-      <animate attributeName="r" values="0%;100%" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="0%;80%" dur="2.5s" repeatCount="indefinite"/>
     </radialGradient>
 
-    <!-- 🎯 Filter ripple -->
     <filter id="rippleFilter">
-      <!-- tạo map -->
       <feImage href="#rippleMap" result="map"/>
-
-      <!-- displacement tạo gợn -->
-      <feDisplacementMap 
-        in="SourceGraphic" 
-        in2="map" 
-        scale="0">
+      <feDisplacementMap in="SourceGraphic" in2="map" scale="0">
         <animate attributeName="scale" values="0;40;0" dur="2.5s" repeatCount="indefinite"/>
       </feDisplacementMap>
 
-      <!-- ✨ glow nhẹ theo sóng -->
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <!-- glow nhẹ -->
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -38,14 +30,51 @@
       <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="100%;200%;100%" dur="6s" repeatCount="indefinite"/>
     </linearGradient>
+
+    <!-- ✨ Neon stroke -->
+    <linearGradient id="neonStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FFFF"/>
+      <stop offset="50%" stop-color="#39FF14"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+
+    <!-- Glow mạnh cho viền -->
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
   </defs>
 
-  <!-- TEXT -->
+  <!-- 🔤 TEXT FILL (có ripple) -->
   <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle"
         font-size="64" font-weight="900"
         font-family="Inter, Arial"
         fill="url(#grad)"
         filter="url(#rippleFilter)">
+    Nam Lav
+  </text>
+
+  <!-- ⚡ TEXT STROKE (viền neon chạy) -->
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle"
+        font-size="64" font-weight="900"
+        font-family="Inter, Arial"
+        fill="none"
+        stroke="url(#neonStroke)"
+        stroke-width="1.5"
+        stroke-dasharray="300"
+        stroke-dashoffset="300"
+        filter="url(#neonGlow)">
+
+    <animate attributeName="stroke-dashoffset"
+             values="300;0"
+             dur="3s"
+             repeatCount="indefinite"/>
+
     Nam Lav
   </text>
 
