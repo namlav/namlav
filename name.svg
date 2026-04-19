@@ -23,7 +23,7 @@
       </feDisplacementMap>
 
       <!-- ✨ glow nhẹ theo sóng -->
-      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
