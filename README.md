@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/namlav/namlav/main/name.svg" alt="Nam Lav" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/namlav.svg" alt="Nam Lav" />
 </h1>
+
 
 ## Hi there 👋
 
