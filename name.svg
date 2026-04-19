@@ -37,8 +37,8 @@
 				  font-weight: 900;
 				  letter-spacing: -.05em;
 				  text-align: center;
-				  background: -webkit-linear-gradient(right,#3828ca,#ff004c);
-				  background: linear-gradient(270deg,#3828ca 0,#ff004c);
+				  background: linear-gradient(270deg, #4CAF50, #8D6E63, #757575);
+				  background: -webkit-linear-gradient(right, #4CAF50, #8D6E63, #757575);
 				  background-size: 200%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
@@ -47,7 +47,7 @@
 				  animation: gradientText 3s ease infinite;
 				}
 			</style>
-			<h1>namlav</h1>
+			<h1>Nam Lav</h1>
       <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
       <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
       <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
