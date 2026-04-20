@@ -11,9 +11,8 @@ I am a versatilist and easily adapt to different hats (App Developer 📱, Teste
 <br/>
 <br/>
 
-<!-- LottieFiles - GIF động chất lượng cao -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/namlav/namlav/main/penguin.gif" width="360px"/>
-  
+
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **clinic** and **speech-regconition**
