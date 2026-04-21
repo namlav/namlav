@@ -61,7 +61,7 @@ I am a versatilist and easily adapt to different hats (App Developer 📱, Teste
 <a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt=".NET" height="42px" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"></a>
 
 <br>
-
+<br>
 
 ### 📊 Github Stats
 
