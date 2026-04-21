@@ -1,3 +1,29 @@
+<!--TEMPLATE README
+## 🤝 Contribution
+
+Contributions are welcome! Please:
+
+1. Fork repository
+2. Create feature branch
+3. Commit changes
+4. Push và create Pull Request
+
+<!-- ## 📝 License
+
+MIT License
+-->
+<!--## 👨‍💻 Author
+
+Nam Lav
+
+## 📞 Contact
+
+If there are any questions or problems, please create issues on Github.
+---
+
+**Happy Coding! 🚀**
+-->
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/namlav/namlav/main/name.svg" alt="Nam Lav" />
 </h1>
