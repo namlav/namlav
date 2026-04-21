@@ -24,14 +24,15 @@ I am a versatilist and easily adapt to different hats (App Developer 📱, Teste
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
-<a href="https://developer.android.com" target="_blank"><img align="left" alt="Android" height="42px" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"></a>
 <a href="https://cplusplus.com/" target="_blank"><img align="left" alt="C++" height="42px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height="42px" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"></a>
-<a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt=".NET" height="42px" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"></a>
-<a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" height="42px" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
+<a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" height="42px" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"></a>
+<a href="https://developer.android.com" target="_blank"><img align="left" alt="Android" height="42px" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"></a>
 <a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height="42px" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img align="left" alt="SQL Server" height="42px" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt=".NET" height="42px" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"></a>
 
 <br>
 
