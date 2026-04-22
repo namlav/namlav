@@ -71,9 +71,10 @@ I am a versatilist and easily adapt to different hats (App Developer 📱, Teste
 
 <br>
 
-### 🛠️ NICE TO MEET YOU
+### Happy Coding! 🚀
 
 <!--
+### 🛠️ NICE TO MEET YOU
 **namlav/namlav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
