@@ -33,7 +33,7 @@ If there are any questions or problems, please create issues on Github.
 <a href='https://open.spotify.com/artist/2xrnGJoN7xNSJE29UJLEGp'><img alt="spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height='25px'/></a>
 <a href='https://music.apple.com/artist/1860307261'><img alt="apple music" src="https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" height='25px'/></a>
 
-I am a versatilist and easily adapt to different hats (App Developer 📱, Tester, or beginner level ML Engineer 🤖 and Frontend 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats (Mobile App Developer 📱, Tester, or beginner level ML Engineer 🤖 and Frontend 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
