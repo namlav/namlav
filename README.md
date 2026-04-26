@@ -41,7 +41,7 @@ I am a versatilist and easily adapt to different hats (Mobile App Developer 📱
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **clinic** and **speech-regconition**
+<!--- 🔭 &nbsp; I’m currently working on **clinic** and **speech-regconition**-->
 - 🌱 &nbsp; I’m currently learning Flutter; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/namlav?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
