@@ -73,6 +73,8 @@ I am a versatilist and easily adapt to different hats (Mobile App Developer 📱
 
 ### Happy Coding! 🚀
 
+## [![Nam Lav](https://img.shields.io/badge/Author-Nam_Lav-0D9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namlav)
+
 <!--
 ### 🛠️ NICE TO MEET YOU
 **namlav/namlav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
