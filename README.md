@@ -42,7 +42,7 @@ I am a versatilist and easily adapt to different hats (Mobile App Developer 📱
 ### 🧐 More About Me:
 
 <!--- 🔭 &nbsp; I’m currently working on **clinic** and **speech-regconition**-->
-- 🌱 &nbsp; I’m currently learning Flutter; 
+- 🌱 &nbsp; I’m currently learning PHP, NoSQL, IoT; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/namlav?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📚 &nbsp; When I am free, I make music. Checkout my [Spotify](https://open.spotify.com/artist/2xrnGJoN7xNSJE29UJLEGp?si=HlZdrhiATY2FJ6tt82pQUg), [Apple Music](https://music.apple.com/us/artist/nam-lav/1860307261) to listen to the songs that  I have made
