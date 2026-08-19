@@ -58,6 +58,8 @@ I am a versatilist and easily adapt to different hats (Mobile App Developer 📱
 <a href="https://developer.android.com" target="_blank"><img align="left" alt="Android" height="42px" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"></a>
 <a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height="42px" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img align="left" alt="SQL Server" height="42px" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"></a>
+<a href="https://supabase.com/" target="_blank"><img align="left" alt="Supabase" height="42px" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" height="42px" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt=".NET" height="42px" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"></a>
 
 <br>
