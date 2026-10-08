@@ -33,7 +33,7 @@ If there are any questions or problems, please create issues on Github.
 <a href='https://open.spotify.com/artist/2xrnGJoN7xNSJE29UJLEGp'><img alt="spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height='25px'/></a>
 <a href='https://music.apple.com/artist/1860307261'><img alt="apple music" src="https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" height='25px'/></a>
 
-I am a versatilist and easily adapt to different hats (Mobile App Developer 📱, Tester, or beginner level ML Engineer 🤖 and Frontend 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats (Mobile App Developer 📱, Backend, or beginner level ML Engineer 🤖 and Tester ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
@@ -42,7 +42,7 @@ I am a versatilist and easily adapt to different hats (Mobile App Developer 📱
 ### 🧐 More About Me:
 
 <!--- 🔭 &nbsp; I’m currently working on **clinic** and **speech-regconition**-->
-- 🌱 &nbsp; I’m currently learning PHP, NoSQL, IoT; 
+- 🌱 &nbsp; I’m currently learning Docker, PHP, NoSQL, IoT;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/namlav?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📚 &nbsp; When I am free, I make music. Checkout my [Spotify](https://open.spotify.com/artist/2xrnGJoN7xNSJE29UJLEGp?si=HlZdrhiATY2FJ6tt82pQUg), [Apple Music](https://music.apple.com/us/artist/nam-lav/1860307261) to listen to the songs that  I have made
