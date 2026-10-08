@@ -27,11 +27,13 @@ If there are any questions or problems, please create issues on Github.
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/namlav/namlav/main/name.svg" alt="Nam Lav" />
 </h1>
-
-## Hi there 👋, I'm Nam Lav!
-
-<a href='https://open.spotify.com/artist/2xrnGJoN7xNSJE29UJLEGp'><img alt="spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height='25px'/></a>
-<a href='https://music.apple.com/artist/1860307261'><img alt="apple music" src="https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" height='25px'/></a>
+<h2 align="center">
+  Hi there 👋, I'm Nam Lav!
+</h2>
+<h3 align="center">
+  <a href='https://open.spotify.com/artist/2xrnGJoN7xNSJE29UJLEGp'><img alt="spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height='25px'/></a>
+  <a href='https://music.apple.com/artist/1860307261'><img alt="apple music" src="https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" height='25px'/></a>
+</h3>
 
 I am a versatilist and easily adapt to different hats (Mobile App Developer 📱, Backend, or beginner level ML Engineer 🤖 and Tester ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
@@ -68,14 +70,25 @@ I am a versatilist and easily adapt to different hats (Mobile App Developer 📱
 ### 📊 Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namlav&show_icons=true&theme=dark&count_private=true)
-
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namlav&layout=compact&theme=dark)
-
+-->
 <br>
+<h2 align="center">
+  Happy Coding! 🚀
+</h2>
+<p align="center">
+  <a href="https://github.com/namlav">
+    <img src="https://img.shields.io/badge/Author-Nam_Lav-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Nam Lav" />
+  </a>
+</p>
 
-### Happy Coding! 🚀
-
-## [![Nam Lav](https://img.shields.io/badge/Author-Nam_Lav-0D9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namlav)
+<!-- 
+<h3 align="center">
+  
+  [![Nam Lav](https://img.shields.io/badge/Author-Nam_Lav-0D9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namlav)
+</h3> 
+-->
 
 <!--
 ### 🛠️ NICE TO MEET YOU
