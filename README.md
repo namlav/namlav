@@ -28,7 +28,7 @@ If there are any questions or problems, please create issues on Github.
   <img src="https://raw.githubusercontent.com/namlav/namlav/main/name.svg" alt="Nam Lav" />
 </h1>
 <h2 align="center">
-  Hi there 👋, I'm Nam Lav!
+  Hi there 👋, I'm Nam Lav
 </h2>
 <h3 align="center">
   <a href='https://open.spotify.com/artist/2xrnGJoN7xNSJE29UJLEGp'><img alt="spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height='25px'/></a>
