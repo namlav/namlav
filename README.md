@@ -77,11 +77,18 @@ I am a versatilist and easily adapt to different hats (Mobile App Developer 📱
 -->
 
 ### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namlav/namlav/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namlav/namlav/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/namlav/namlav/output/github-contribution-grid-snake.svg">
-</picture>
+
+<details open>
+  <summary>📅 <b>2026 (current)</b></summary>
+  <br/>
+  <img src="https://raw.githubusercontent.com/namlav/namlav/output/github-contribution-grid-snake.svg" alt="Snake Current" />
+</details>
+
+<details>
+  <summary>📅 <b>2025</b></summary>
+  <br/>
+  <img src="https://raw.githubusercontent.com/namlav/namlav/output/snake-2025.svg" alt="Snake 2025" />
+</details>
 
 <br>
 <h2 align="center">
