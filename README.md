@@ -71,11 +71,18 @@ I am a versatilist and easily adapt to different hats (Mobile App Developer 📱
 ![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### 📊 Github Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namlav&show_icons=true&theme=dark&count_private=true)
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namlav&layout=compact&theme=dark)
 -->
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namlav/namlav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namlav/namlav/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/namlav/namlav/output/github-contribution-grid-snake.svg">
+</picture>
+
 <br>
 <h2 align="center">
   Happy Coding! 🚀
